@@ -1,0 +1,43 @@
+- <b>3 Shortner </b>Verification Mode
+- <b>3 times set</b> for verification 
+- Advance <b> Spell Check </b> Mode
+- Premium <b>User Refferal </b> Mode
+- <b>Premium User Access </b> Mode
+- Custom <b> Force Subscribe </b> Mode
+- <b>AI</b> Feature
+- <b>PM Searching</b> On Off Mode
+- <b> Season </b> button in search mode (users can choose their web series season)
+- <b> Language </b> Button in search mode (users can choose language of their files)
+- <b>Quality </b> Button in search mode (users can choos Quality of their files)
+- <b>Years </b> Button in search mode (users can choos Years of their mve.. sers..)
+- Group admin Can select their 3 shortner site and 3 Tutorial Video for each shortner
+- Indexes Files above 2GB
+- PreDVD and CamRip Delete Mode
+- Multiple File Deletion
+- Settings Menu
+- Welcome Message
+- Automatic File Filtering / <b>Auto Index</b>
+- Bot PM File Send Mode
+- <b>Auto File Send</b>
+- Forward Restriction
+- File Protection
+- Manual File Filtering
+- Global File Filtering
+- IMDB
+- Admin Commands
+- User Broadcast
+- Group Broadcast
+- IMDB Search
+- Inline Search
+- Random pics
+- ids and User info
+- Status
+- Users
+- Chats
+- User Ban
+- User Unban
+- Channel Leave
+- Channel Disable
+- Channel Enable
+- Channel List
+- And furthermore, I don't remember all...
