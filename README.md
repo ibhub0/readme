@@ -1,6 +1,36 @@
-## Credits 
+<p align="center">
+  <img src="https://graph.org//file/94891b8229c6b1e03d1e8.jpg">
+</p>
+<h1 align="center">
+  <b>RK FILTER BOT</b>
+</h1>
 
-# Main Thanks Goes to <b>[Rishikesh-Sharma09](https://github.com/Rishikesh-Sharma09)</b>
+### Deployment Support Given Below 👇
+
+
+If You Encounter Any Issues **Deploying** The Repo, Feel Free To Seek Assistance In Our **support group**:
+
+
+[![Join Support Group    ](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Rkbotz)](https://t.me/Rkbotz)
+
+## How To Deploy
+[Click Here to Check Deployment Guide]()
+
+### Features
+<details>
+ 
+Click [Here To See All Features]() of the bot.
+ 
+  
+ [![Sample Bot](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Rkbotz)](https://t.me/Rkbotz)
+     🔧 [Support Group](https://t.me/Bisal_Files_Talk)
+</details>
+
+
+
+
+### Credits
+ Main Thanks Goes to <b>[Rishikesh-Sharma09](https://github.com/Rishikesh-Sharma09)</b>
 
 <details>
 <summary><b>Check All Contributors</b></summary>
@@ -18,5 +48,24 @@
 
 ## Thanks to
  - [Pyrogram](https://t.me/pyrogramchat) for Library.
+</details>
 
+# [Buy a Coffee☕]()
+
+
+### About This Repository :
+
+The bot repository is designed to filter and manage files on Telegram. It allows you to add files either automatically or manually. The bot can respond to users in groups or private chats by providing the files they search for .
+<br>
+For more information of the project, please refer to the [FEATURES PAGE](https://github.co
+m)
+
+## Disclaimer
+This repository is provided for educational purposes only. It is not intended for personal or commercial gain. Use of this repository and the code within is at your own risk. The authors and contributors are not responsible for any misuse or damage caused by the use of this project.
+
+
+## License
+
+
+This project is licensed under the [MIT License]()
 
