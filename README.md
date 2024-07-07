@@ -23,8 +23,8 @@ Click [Here To See All Features]() of the bot.
  
   
  [![Sample Bot](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Rkbotz)](https://t.me/Rkbotz)
-     🔧 [Support Group](https://t.me/Bisal_Files_Talk)
-</details>
+ 
+ </details>
 
 
 
