@@ -1,6 +1,87 @@
-# Deployment Steps
+Deployment Steps
 
+<details>
+<summary>For VPS</summary>
 
+### First, install Python And Pip if you haven't already.
+
+#### For Ubuntu/Debian
+
+1. **Update the package list:**
+   ```sh
+   sudo apt update
+   ```
+2. **Install Python 3:**
+   ```sh
+   sudo apt install python3
+   ```
+3. **Install `pip` for Python 3:**
+   ```sh
+   sudo apt install python3-pip
+   ```
+
+#### For CentOS/RHEL
+
+1. **Install the EPEL repository:**
+   ```sh
+   sudo yum install epel-release
+   ```
+2. **Install Python 3:**
+   ```sh
+   sudo yum install python3
+   ```
+3. **Install `pip` for Python 3:**
+   ```sh
+   sudo yum install python3-pip
+   ```
+
+#### For Fedora
+
+1. **Update the package list:**
+   ```sh
+   sudo dnf update
+   ```
+2. **Install Python 3:**
+   ```sh
+   sudo dnf install python3
+   ```
+3. **Install `pip` for Python 3:**
+   ```sh
+   sudo dnf install python3-pip
+   ```
+
+#### For Arch Linux
+
+1. **Update the package list:**
+   ```sh
+   sudo pacman -Syu
+   ```
+2. **Install Python and `pip`:**
+   ```sh
+   sudo pacman -S python python-pip
+   ```
+
+After running these commands, you should have both Python and `pip` installed on your VPS. You can verify the installations by running:
+
+```sh
+python3 --version
+pip3 --version
+```
+
+### Now Create a Folder Named 'myBots' You can use any name you want.
+
+To create a folder (directory) in Linux Vps, you need to use the `mkdir` command.
+
+1. **Create a directory:**
+   ```sh
+   mkdir myBots
+   ```
+2. **Verify if directory is created or not:**
+   ```sh
+   ls
+   ```
+
+### Lets Enter To The Folder
 
 1. **Change directory:**
    ```sh
@@ -11,20 +92,18 @@
    pwd
    ```
 
-
 ### Clone the Repo In The Folder `myBots` In Your VPS
-
 
 1. **Clone the Repo Using this:**
    ```sh
-   git clone https://github.com/Rishikesh-Sharma09/Auto-Filter-Bot
+   git clone https://github.com/biisal/biisal-filter-bot
    ```
 2. **Verify if Repo is cloned or not:**
    ```sh
    ls
    ```
 
-
+### Now Create A Virtual Environment
 ### Now Create A Virtual Environment
 
 
