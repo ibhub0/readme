@@ -4,19 +4,23 @@
 - Premium <b>User Refferal </b> Mode
 - <b>Premium User Access </b> Mode
 - Custom <b> Force Subscribe </b> Mode
-- <b>AI</b> Feature
-- <b>PM Searching</b> On Off Mode
+- <b>Request To Join Mode</b>
+- <b>AI</b> Feature Support 
+- <b>File Upload Update In Channel</b>
 - <b> Season </b> button in search mode (users can choose their web series season)
 - <b> Language </b> Button in search mode (users can choose language of their files)
-- <b>Quality </b> Button in search mode (users can choos Quality of their files)
-- <b>Years </b> Button in search mode (users can choos Years of their mve.. sers..)
-- Group admin Can select their 3 shortner site and 3 Tutorial Video for each shortner
+- <b>Quality </b> Button in search mode (users can choose Quality for their files)
+- <b>Years </b> Button in search mode (users can choose Years for accurate results)
+- Independent <b>Stream Features</b> (Don't need to host any other F2Link bot for stream)
+- Group admin Can select their <b>3 shortner</b> site and <b>3 Tutorial Video</b> for each shortner
 - Indexes Files above 2GB
 - PreDVD and CamRip Delete Mode
+- <b>Multiple Mongo Database</b>
 - Multiple File Deletion
-- Settings Menu
-- Welcome Message
+- Settings Menu (Customise as you want from Telegram)
+- Custom Welcome Message
 - Automatic File Filtering / <b>Auto Index</b>
+- <b>PM Searching</b> On Off Mode
 - Bot PM File Send Mode
 - <b>Auto File Send</b>
 - Forward Restriction
@@ -30,14 +34,11 @@
 - IMDB Search
 - Inline Search
 - Random pics
-- ids and User info
+- Ids And User Info
 - Status
-- Users
-- Chats
-- User Ban
-- User Unban
-- Channel Leave
-- Channel Disable
-- Channel Enable
-- Channel List
-- And furthermore, I don't remember all...
+- Users, Chats, Channels etc
+- User Ban, Unban
+- Channel/Group List, Leave, Disable, Enable
+- <b>No Result send in Log</b> with awesome buttons 😉
+- <b>Advanced Status</b> (Disk, Cpu, Ram, Uptime..)
+- <b>Automatic Junk Group & Users Clearing On Database</b>
